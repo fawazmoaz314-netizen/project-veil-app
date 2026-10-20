@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Veil.Api/Veil.Api.csproj" />
+    <Project Path="src/Veil.Domain/Veil.Domain.csproj" />
+    <Project Path="src/Veil.Infrastructure/Veil.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Veil.Tests/Veil.Tests.csproj" />
+  </Folder>
+  <Project Path="../shared/Veil.Client/Veil.Client.csproj" />
+  <Project Path="../shared/Veil.Contracts/Veil.Contracts.csproj" />
+</Solution>
